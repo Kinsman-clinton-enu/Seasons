@@ -1,8 +1,29 @@
-# React + Vite
+# Table of Contents
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ - Overview
+       - The Challenge
+       -  Screenshot
+       - Links
+- My process
+- Built with
+- Author
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### The Challenge
+ - Season App that ask for your location and tells if it's winter or summer based on your provided location.
+ 
+ ### links
+
+- solution URL: [Repo](https://github.com/Kinsman-clinton-enu/Seasons.git)
+- Live site URL:
+
+## My process
+
+### Built with
+- React
+- Semantic UI
+- CSS custom properties
+
+## Author
+- Twitter - [@kinsman0418](https://x.com/kinsman0418?s=09)
